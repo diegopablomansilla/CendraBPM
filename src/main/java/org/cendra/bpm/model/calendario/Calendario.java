@@ -1,7 +1,7 @@
-package org.cendra.bpm.model.tarea;
+package org.cendra.bpm.model.calendario;
 
-public class UnidadTiempo {
-	
+public class Calendario {
+
 	private String codigo;
 	private String nombreCorto;
 	private String nombre;

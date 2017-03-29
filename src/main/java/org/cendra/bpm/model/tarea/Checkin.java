@@ -2,6 +2,7 @@ package org.cendra.bpm.model.tarea;
 
 import java.sql.Timestamp;
 
+import org.cendra.bpm.model.calendario.Tiempo;
 import org.cendra.bpm.model.user.Usuario;
 
 public class Checkin {

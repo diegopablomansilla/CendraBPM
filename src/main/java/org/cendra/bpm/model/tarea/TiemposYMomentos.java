@@ -2,7 +2,12 @@ package org.cendra.bpm.model.tarea;
 
 import java.sql.Timestamp;
 
+import org.cendra.bpm.model.calendario.Calendario;
+import org.cendra.bpm.model.calendario.Tiempo;
+
 public class TiemposYMomentos {
+	
+	private Calendario calendarioPorDefecto;
 
 	private Tiempo tiempoEstimado;
 	private Tiempo tiempoEstimadoMaximo;

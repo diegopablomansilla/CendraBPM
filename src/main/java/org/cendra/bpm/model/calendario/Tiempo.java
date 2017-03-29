@@ -1,4 +1,4 @@
-package org.cendra.bpm.model.tarea;
+package org.cendra.bpm.model.calendario;
 
 public class Tiempo {
 	
