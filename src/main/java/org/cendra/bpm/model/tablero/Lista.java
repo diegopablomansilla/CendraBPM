@@ -1,12 +1,12 @@
 package org.cendra.bpm.model.tablero;
 
-public class TableroLista {
+public class Lista {
 	
 	private String codigo;
 	private String nombreCorto;
 	private String nombre;	
 	private String descripcion;
 	
-	private TableroListaPerfil perfilPorDefecto;
+	private ListaPerfil perfilPorDefecto;
 
 }

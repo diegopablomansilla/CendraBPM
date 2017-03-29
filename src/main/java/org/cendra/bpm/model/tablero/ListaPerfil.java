@@ -1,6 +1,6 @@
 package org.cendra.bpm.model.tablero;
 
-public class TableroListaPerfil {
+public class ListaPerfil {
 	
 	private Integer orden;
 	private String urlIcon;

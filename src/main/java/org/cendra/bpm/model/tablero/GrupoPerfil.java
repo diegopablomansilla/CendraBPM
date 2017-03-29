@@ -1,6 +1,6 @@
 package org.cendra.bpm.model.tablero;
 
-public class TableroGrupoPerfil {
+public class GrupoPerfil {
 	
 	private String background;
 
